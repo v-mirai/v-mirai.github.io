@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Venkatesan Alagarsami Sudalaimani"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Ven_CV.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "What I cannot create, I cannot understand -- R.F"
   location         : "Stuttgart, Germany"
   email            :
