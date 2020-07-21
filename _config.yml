@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "venkat.sudalaimani@gmail.com"
+      url: "mailto:venkat.sudalaimani@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://v-mirai.github.io"
