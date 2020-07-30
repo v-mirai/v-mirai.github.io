@@ -2,8 +2,10 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Data Science Libraries"
-    url: /data-science-lib/
+   - title: "Tech Space"
+    url: /tech-space/
+   - title: "Blog-Space"
+    url: /blog-space/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

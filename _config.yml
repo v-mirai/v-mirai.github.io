@@ -16,15 +16,15 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ven WebSpace"
+title                    : "VeeSpace"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Venkatesan Sudalaimani"
-description              : "Programmer's Anthology"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+description              : "Venkat, a curious person who writes about Artificial Intelligence and blogs about simple things" 
+url                      : "https://www.v-mirai.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png" 
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -44,7 +44,7 @@ comments:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   staticman:
-    branch               : # "master"
+    branch               : "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
   siteKey                :
@@ -79,8 +79,8 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : "Person"# Person or Organization (defaults to Person)
+  name                   : "Venkatesan Sudalaimani"# If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 # Analytics
@@ -94,14 +94,14 @@ analytics:
 # Site Author
 author:
   name             : "Venkatesan Alagarsami Sudalaimani"
-  avatar           : "/images/Ven_CV.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "What I cannot create, I cannot understand -- R.F"
+  avatar           : "assets/images/pro-pic-1.JPG"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : A curious guy trying to figure out stuff"
   location         : "Stuttgart, Germany"
-  email            :
+  email            : https://venkat.sudalaimani@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:venkat.sudalaimani@gmail.com"
+      url: "mailto:https://venkat.sudalaimani@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://v-mirai.github.io"
@@ -231,6 +231,18 @@ whitelist:
   - jekyll-feed
   - jekyll-include-cache
 
+#Collections - Collection for use as drafts
+collections:
+  drafts:
+    output: true
+    permalink: /:categories/:title/
+  blog-space:
+    output: true
+    permalink: /:categories/:title/
+  tech-space:
+    output: true
+    permalink: /:categories/:title/
+
 
 # Archives
 #  Type
@@ -260,6 +272,8 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+# Image assets folder
+imagefolder: "/assets/images/"
 
 # HTML Compression
 # - https://jch.penibelst.de/
@@ -283,13 +297,35 @@ defaults:
       share: true
       related: true
       
-# pages
-pages:
-  # _pages
+# _drafts
   - scope:
       path: ""
-      type: pages
+      type: drafts
     values:
-      layout: single
+      layout: draft
       author_profile: true
-  
+      read_time: true
+      sitemap: false
+      noindex: true   #To hide from robots and crawlers
+  # _Blog-Space
+  - scope:
+      path: ""
+      type: blog-space
+    values:
+      layout: article
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _Tech-Space
+  - scope:
+      path: ""
+      type: tech-space
+    values:
+      layout: article
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true

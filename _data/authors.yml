@@ -1,0 +1,14 @@
+# /_data/author.yml
+
+Venkatesan Sudalaimani:
+    name: "Venkatesan Sudalaimani"
+    uri: "https://www.v-mirai.github.io"
+    bio: "A curious guy trying to figure out stuff"
+    location: "Stuttagart, Germany"
+    avatar: "/assets/images/pro-pic-1.JPG"
+    #twitter: 
+    #facebook: 
+    linkedin: "venkatesan-sudalaimani-054813137"
+    #medium: 
+    #instagram: 
+    github: "v-mirai"
