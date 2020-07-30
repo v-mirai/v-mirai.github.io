@@ -1,7 +1,7 @@
 ---
 layout: archive 
 permalink: /tech-space/
-title: Tech Space
+title: Tech-Space
 author_profile: false
 sidebar:
   - image: "/assets/images/tech-space-small.jpg"

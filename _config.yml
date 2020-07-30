@@ -97,7 +97,7 @@ author:
   avatar           : "assets/images/pro-pic-1.JPG"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : A curious guy trying to figure out stuff"
   location         : "Stuttgart, Germany"
-  email            : https://venkat.sudalaimani@gmail.com
+  #email            : https://venkat.sudalaimani@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
