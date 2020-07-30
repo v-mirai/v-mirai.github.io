@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /
+permalink: /home/
 title: Venkatesab Sudalaimani
 author_profile: false
 header:
