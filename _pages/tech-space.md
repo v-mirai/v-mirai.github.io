@@ -1,6 +1,6 @@
 ---
-title: "About Venkatesan Sudalaimani"
+title: "Tech Space"
 author: Venkatesan Sudalaimani
-permalink: /techspace/
+permalink: /techspacce/
 og_image: "/assets/images/pro-pic-1.jpg"
 ---

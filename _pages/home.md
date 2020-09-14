@@ -17,7 +17,7 @@ feature_collections:
     alt: "abstract image of Tech -Magic"
     title: "Tech Space"
     excerpt: 'Space filled with technical content that interests me'
-    url: "/tech-space/"
+    url: "/techspace/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/blog-2.jpg
