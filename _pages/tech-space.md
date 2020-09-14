@@ -1,7 +1,6 @@
 ---
-layout: archive 
-permalink: /tech-space/
-title: Tech-Space
-description: ""Any sufficiently advanced technology is indistinguishible from magic" - Arthur Clarke"
-og_image: "/assets/images/tech-space-small.jpg"
+title: "About Venkatesan Sudalaimani"
+author: Venkatesan Sudalaimani
+permalink: /techspace/
+og_image: "/assets/images/pro-pic-1.jpg"
 ---
