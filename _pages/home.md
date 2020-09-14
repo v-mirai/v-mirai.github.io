@@ -1,5 +1,4 @@
 ---
-layout: splash
 permalink: /
 title: Venkatesab Sudalaimani
 author_profile: false
