@@ -1,5 +1,4 @@
 ---
-layout: archive 
 permalink: /tech-space/
 title: Tech-Space
 author_profile: false
