@@ -2,7 +2,7 @@
 title: "VeeSpace"
 layout: splash
 permalink: /
-#date: 2016-03-23T11:48:41-04:00
+date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -19,7 +19,7 @@ feature_row:
     alt: "abstract image of Tech -Magic"
     title: "Tech Space"
     excerpt: 'Space filled with technical content that interests me'
-    url: "/tech-space/"
+    url: "/techspace/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/blog-2.jpg
