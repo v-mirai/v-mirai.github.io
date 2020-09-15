@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "About Me"
+  - title: "About"
     url: /about/
-  - title: "Tech-Space"
+  - title: "Tech Space"
     url: /techspace/
-  - title: "Blog-Space"
+  - title: "Blog Space"
     url: /blog-space/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
