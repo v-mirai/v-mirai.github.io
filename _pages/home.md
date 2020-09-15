@@ -16,14 +16,14 @@ og_image: "/assets/images/splash_ws_2.jpg"
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_collections:
-  - image_path: /assets/images/tech-space-2.jpg
+  - image_path: /assets/images/tech-space-2.JPG
     alt: "abstract image of Tech -Magic"
     title: "Tech Space"
     excerpt: 'Space filled with technical content that interests me'
     url: "/techspace/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/blog-2.jpg
+  - image_path: /assets/images/blog-2.JPG
     alt: "Cover for Blogs"
     title: "Personal Blog"
     excerpt: 'My views on everyday life'
