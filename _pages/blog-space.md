@@ -3,15 +3,12 @@ layout: single
 title: "Blog Space"
 author: Venkatesan Sudalaimani
 permalink: /blog-space/
-author_profile: false
+author_profile: true
 sidebar:
     -image: "/assets/images/blog-1.JPG"
 og_image: "/assets/images/blog-1.JPG"
 ---
 
-
-
-<div align ="center"> **Welcome to my Blog-Space!** </div>
 
 It is always a strange experience to be able to look at things from another's perspective. To me, reading blog posts give me an opportunity to do just that. I believe if people can look through each other's eyes without initial judgement, it is possible to obtain clarity on a subject under the spotlight. The argument that comes after that, is the best kind. The kind that solves a problem. The kind that gives us a sort of a complete picture. 
 
