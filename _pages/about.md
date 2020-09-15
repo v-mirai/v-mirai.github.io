@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "About Venkatesan Sudalaimani"
+title: "About VeeSpace"
 author: Venkatesan Sudalaimani
 author_profile: true
 permalink: /about/
