@@ -17,7 +17,7 @@ Perhaps you have heard this famous quote from Arthur C. Clarke,
 
 {% include figure image_path="assets/images/calvin-hobbes-magic.JPG" alt="(PC: CalvinandHobbes)" caption="Magic and Technology" %}
 
-See the connection?  This is a quote that will remain true at every era of human history. Imagine if we can travel back to the end of 1600s and show demonstrate communication via radio transmitter and receiver. We would either be Gods men with mystical powers or be put on stakes and burnt alive for practicing witchcraft. But today, it is as trivial as pineapples on a pizza (yup, I am one of them).
+See the connection?  This is a quote that will remain true at every era of human history. Imagine if we can travel back to the end of 1600s(today's magic) and demonstrate communication via radio transmitter and receiver. We would either be Gods men with mystical powers or be put on stakes and burnt alive for practicing witchcraft. But today, it is as trivial as pineapples on a pizza (yup, I am one of them).
 
 Just as I realized magic was well crafted trick using Science and Technology, I came to see prominent Scientists, Engineers, and Inventors as the modern wizards. And being a practitioner of the art, I am on a journey to understand tricks of the trade of today and to apply them in my day to day life.
 
