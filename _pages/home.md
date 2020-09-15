@@ -15,7 +15,7 @@ excerpt: ""
 og_image: "/assets/images/splash_ws_2.jpg"
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
-feature_row:
+feature_collections:
   - image_path: /assets/images/tech-space-2.jpg
     alt: "abstract image of Tech -Magic"
     title: "Tech Space"
