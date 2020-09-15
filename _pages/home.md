@@ -1,7 +1,8 @@
 ---
-title: "Splash Page"
+title: "VeeSpace"
 layout: splash
 permalink: /
+author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -9,8 +10,9 @@ header:
   actions:
     - label: "About me"
       url: "/about/"
-  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: ""A curious guy trying to figure out stuff""
+og_image: "/assets/images/splash_ws_1.jpg"
 intro: 
   - excerpt: 'I am Venkat, a techie, a programmer by trade and a AI researcher by passion'
 feature_row:
