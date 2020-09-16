@@ -25,7 +25,7 @@ feature_collections:
     btn_class: "btn--primary"
   - image_path: /assets/images/blog-3.JPG
     alt: "Cover for Blogs"
-    title: "Personal Blog"
+    title: "Blog Space"
     excerpt: 'My views on everyday life'
     url: "/blog-space/"
     btn_label: "Read More"
