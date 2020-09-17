@@ -2,7 +2,7 @@
 title: "VeeSpace"
 layout: splash
 permalink: /
-date: 2016-03-23T11:48:41-04:00
+date: 2020-09-17T14:15:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -14,7 +14,7 @@ header:
 excerpt: ""
 og_image: "/assets/images/splash_ws_2.jpg"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'About VeeSpace'
 feature_collections:
   - image_path: /assets/images/tech-space-3.jpg
     alt: "abstract image of Tech -Magic"
