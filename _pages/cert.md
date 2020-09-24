@@ -8,8 +8,6 @@ og_image: "/assets/images/certified.JPG"
 ---
 
 
-**My Certifications**
-
 The amount of freely available information on the internet is starting to reduce the huge monetary dependence (such as university fee, education loans) for a decent education. With the variety of online platforms that provide free (or relatively cheap), high quality and intuitive learning experience, all that is needed from the students are their enthusiasm and determination.
 
 The following are some of the courses (certifications) that helped me to understand and master the concepts of Data Science and Machine Learning

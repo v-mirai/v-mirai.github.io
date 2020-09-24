@@ -13,7 +13,7 @@ I am Venkat and welcome to my blog, "VeeSpace". I like to code. I am a Python an
 
  Previously I worked at Robert Bosch Engineering and Business Solutions for 3 years as a communication network software developer for the active safety ECUs. After 3 years of industrial learning and an organizational atmosphere, I finally decided to get back to studying (and some travelling). I came to Germany during the winter of 2017 to pursue my Master of Science in Darmstadt University of Applied Sciences.
 
-I studied quite some interesting topics of which one really reeled me in - AI. I was so fascinated by the concept of teaching a computer to learn! So I dove in and started studying the fundamentals, doing voluntary projects, internships, certifications and ended-up even writing my Master Thesis in the field of Data Science and Machine Learning. After 3 years of exploring data science and AI, I still feel there is a lot to ponder.
+During my masters, I studied quite some interesting topics of which one really reeled me in - AI. I was so fascinated by the concept of using data! However the only So I dove in and started studying the fundamentals, doing voluntary projects, internships, certifications and ended-up even writing my Master Thesis in the field of Data Science and Machine Learning. After 3 years of exploring data science and AI, I still feel there is a lot to ponder.
 
 **About my interests**
 
