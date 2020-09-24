@@ -325,10 +325,10 @@ defaults:
       related: true
   # _tech-space
   - scope:
-      path: ""
+      path: "_tech-space"
       type: tech-space
     values:
-      layout: archive
+      layout: single
       author_profile: true
       read_time: true
       comments: true

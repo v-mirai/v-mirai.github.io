@@ -1,6 +1,6 @@
 ---
-layout: single
 title: "Tech Space"
+layout: single
 author: Venkatesan Sudalaimani
 permalink: /tech-space/
 author_profile: true
