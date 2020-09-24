@@ -244,7 +244,7 @@ collections:
   blog-space:
     output: true
     permalink: /:categories/:title/
-  techspace:
+  tech-space:
     output: true
     permalink: /:categories/:title/
 
@@ -326,7 +326,7 @@ defaults:
   # _Tech-Space
   - scope:
       path: ""
-      type: techspace
+      type: tech-space
     values:
       layout: article
       author_profile: true
