@@ -3,7 +3,7 @@ layout: single
 title: "Blog Space"
 author: Venkatesan Sudalaimani
 permalink: /blog-space/
-author_profile: false
+author_profile: true
 sidebar:
     -image: "/assets/images/blog-1.JPG"
 og_image: "/assets/images/blog-1.JPG"

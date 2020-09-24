@@ -323,7 +323,7 @@ defaults:
       comments: true
       share: true
       related: true
-  # _Tech-Space
+  # _tech-space
   - scope:
       path: ""
       type: tech-space

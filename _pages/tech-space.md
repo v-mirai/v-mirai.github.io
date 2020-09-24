@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "Tech Space"
 author: Venkatesan Sudalaimani
 permalink: /tech-space/
