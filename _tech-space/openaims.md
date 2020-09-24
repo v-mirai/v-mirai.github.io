@@ -1,5 +1,5 @@
 ---
-title: "MS and OpenAI"
+title: "MS_OpenAI"
 author: Venkatesan Sudalaimani
 date: 2020-09-24 09:00:00 +0530
 categories: tech-space
@@ -11,7 +11,7 @@ og_image: "/assets/images/openaiMs.JPG"
 ---
 
 
-<div align="center"> ### Microsoft obtains GPT-3 </div>
+<div align="center"> Microsoft obtains GPT-3 </div>
 ---
 
 The exclusive rights of OpenAI's auto-regressive language model, GPT-3 has been acquired by the tech-giant Microsoft for 1 billion USD.
