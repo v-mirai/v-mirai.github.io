@@ -326,7 +326,7 @@ defaults:
   # _tech-space
   - scope:
       path: ""
-      type: techspace
+      type: tech-space
     values:
       layout: single
       author_profile: true
