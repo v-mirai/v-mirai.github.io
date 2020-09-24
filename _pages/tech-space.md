@@ -31,6 +31,6 @@ Happy reading!
   {% assign collection = 'tech-space' %}
   {% assign posts = site[collection] | reverse %}
   {% for post in posts %}
-    {% include archive.html type="grid" %}
+    {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
