@@ -1,5 +1,5 @@
 ---
-title: "MS_OpenAI"
+title: "Microsoft obtains GPT-3"
 author: Venkatesan Sudalaimani
 layout: single
 date: 2020-09-24 09:00:00 +0530
@@ -11,8 +11,6 @@ description: " Post about the recent acquisition of GPT-3 by Microsoft"
 og_image: "/assets/images/openaiMs.JPG" 
 ---
 
-
-<div align="center"> Microsoft obtains GPT-3 </div>
 ---
 
 The exclusive rights of OpenAI's auto-regressive language model, GPT-3 has been acquired by the tech-giant Microsoft for 1 billion USD.
@@ -24,14 +22,14 @@ The exclusive rights of OpenAI's auto-regressive language model, GPT-3 has been 
 #### The Growing Trends in AI
 ------------------------
 
-Modern Artificial Intelligence is relatively new. It is only from the early 2000, did the progress start to gain momentum. This is primarily because of two things, the availability of high compute processors and the proliferation of data (thanks to the Internet). These two factors were the major bottlenecks during the so called, "AI Winter" [1]. However, in retrospect, the advancement of AI in a mere 20-year duration is indeed something to be impressed about.
+Modern Artificial Intelligence is relatively new. It is only from the early 2000, did the progress start to gain momentum. This is primarily because of two things, the availability of high compute processors and the proliferation of data (thanks to the Internet). These two factors were the major bottlenecks during the so called, "AI Winter"<sup>[1]</sup>. However, in retrospect, the advancement of AI in a mere 20-year duration is indeed something to be impressed about.
 
 In my opinion there is a third factor which contributed to this -- the open source community. When you want to advance on something revolutionary, it makes no sense to walk alone. In the case of AI, the research community decided to grow together. They shared their researches which allowed people from different walks and skillsets to contribute to its development. Fast-forward 20 years, AI has unmistakably become a part of our everyday life transforming a variety of fields. Over the last few years, what started as a combined effort in advancing technology has now become a lucrative race to find who owns this market.
 
 #### OpenAI and GPT-3
 ----------------
 
-OpenAI is one of the most pioneering AI research and deployment company of today along with Alphabet's DeepMind. It was co-founded by Elon Musk [2], though he resigned from the board after a possible conflict of interest. Perhaps you have tried their [OpenAI Gym](https://gym.openai.com/) [3]. Their recent innovatory work is their auto-regressive language model family -- Generative Pre-trained Transformer. The family iterated from GPT to GPT-2 to the newest GPT-3. GPT-3 is the world's largest language model. To get a sense of what the GPT-3 model is capable of, imagine an overly smart auto-fill feature capable of writing a whole story on its own from a single line or writing a song or a poem from a subject, generating a script for a website based on a description and so on. To know more, this is an interesting site: <https://gpt3examples.com/>.  The power of the algorithm can be attributed to the shear volume of data it was trained on. GPT-3 has an astounding 175 Billion parameters [4]. It is estimated that, the whole of English Wikipedia attributes to just 0.6 percent of the training data [5]. To know more about the GPT-3, you can checkout this arXiv paper : <https://arxiv.org/abs/2005.14165>.
+OpenAI is one of the most pioneering AI research and deployment company of today along with Alphabet's DeepMind. It was co-founded by Elon Musk <sup>[2]</sup>, though he resigned from the board after a possible conflict of interest. Perhaps you have tried their [OpenAI Gym](https://gym.openai.com/) <sup>[3]</sup>. Their recent innovatory work is their auto-regressive language model family -- Generative Pre-trained Transformer. The family iterated from GPT to GPT-2 to the newest GPT-3. GPT-3 is the world's largest language model. To get a sense of what the GPT-3 model is capable of, imagine an overly smart auto-fill feature capable of writing a whole story on its own from a single line or writing a song or a poem from a subject, generating a script for a website based on a description and so on. To know more, this is an interesting site: <https://gpt3examples.com/>.  The power of the algorithm can be attributed to the shear volume of data it was trained on. GPT-3 has an astounding 175 Billion parameters <sup>[4]</sup>. It is estimated that, the whole of English Wikipedia attributes to just 0.6 percent of the training data <sup>[5]</sup>. To know more about the GPT-3, you can checkout this arXiv paper : <https://arxiv.org/abs/2005.14165>.
 
 #### OpenAI and Microsoft
 --------------------
