@@ -2,7 +2,7 @@
 layout: single
 title: "Tech Space"
 author: Venkatesan Sudalaimani
-permalink: /techspace/
+permalink: /tech-space/
 author_profile: true
 sidebar:
     -image: "/assets/images/tech-space-3.JPG"

@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Tech Space"
-    url: /techspace/
+    url: /tech-space/
   - title: "Blog Space"
     url: /blog-space/
   # - title: "About"
