@@ -3,7 +3,7 @@ layout:
 title: "MS and OpenAI"
 author: Venkatesan Sudalaimani
 date: 2020-09-24 09:00:00 +0530
-categories: tech-space
+categories: techspace
 header:
    teaser: "/assets/images/openaiMs.JPG" 
 excerpt: " The acquisition of GPT-3 by Microsoft -> What does it mean? "
