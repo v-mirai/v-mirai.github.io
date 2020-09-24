@@ -1,6 +1,7 @@
 ---
 title: "MS_OpenAI"
 author: Venkatesan Sudalaimani
+layout: single
 date: 2020-09-24 09:00:00 +0530
 categories: tech-space
 header:
