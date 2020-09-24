@@ -244,7 +244,7 @@ collections:
   blog-space:
     output: true
     permalink: /:categories/:title/
-  tech-space:
+  techspace:
     output: true
     permalink: /:categories/:title/
 
