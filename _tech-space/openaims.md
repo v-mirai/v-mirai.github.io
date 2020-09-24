@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: single
 title: "MS and OpenAI"
 author: Venkatesan Sudalaimani
 date: 2020-09-24 09:00:00 +0530
