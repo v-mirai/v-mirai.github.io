@@ -28,7 +28,7 @@ Happy reading!
 ## Latest Articles
 
 <div class="grid__wrapper">
-  {% assign collection = 'techspace' %}
+  {% assign collection = 'tech-space' %}
   {% assign posts = site[collection] | reverse %}
   {% for post in posts %}
     {% include archive-single.html type="grid" %}
