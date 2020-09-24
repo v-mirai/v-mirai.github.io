@@ -49,7 +49,7 @@ From the view of OpenAI, to get better results, the advance AI algorithms of tod
 
 [2] <https://en.wikipedia.org/wiki/OpenAI>
 
-[3] https://gym.openai.com/
+[3] <https://gym.openai.com/>
 
 [4] <https://arxiv.org/abs/2005.14165>
 
