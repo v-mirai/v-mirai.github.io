@@ -319,10 +319,10 @@ defaults:
       path: ""
       type: blog-space
     values:
-      layout: article
+      layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: False
       share: true
       related: true
   # _tech-space
@@ -330,7 +330,7 @@ defaults:
       path: "_tech-space"
       type: tech-space
     values:
-      layout: article
+      layout: single
       author_profile: true
       read_time: true
       comments: true
