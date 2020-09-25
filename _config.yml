@@ -150,6 +150,8 @@ include:
   - _pages
   - _redirects
 exclude:
+  - _includes/comments-providers
+  - _data/ui-text.yml
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor
